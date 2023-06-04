@@ -26,8 +26,8 @@ const projets = [
      It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent`,
     featuredImage: './images/c1.png',
     technologies: ['html', 'css', 'javascript'],
-    linkToLiveVersion: 'https://azy64.github.io/Portfolio/',
-    linkToSource: 'https://github.com/azy64/Portfolio',
+    linkToLiveVersion: 'https://lapromesse.github.io/lapromesse/',
+    linkToSource: 'https://github.com/lapromesse',
   },
   {
     key: 1,
